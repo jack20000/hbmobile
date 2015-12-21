@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://192.168.1.112:20443/download</string>
+					<string>https://raw.githubusercontent.com/jack20000/hbmobile/master/hbportal.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
